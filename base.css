@@ -1,0 +1,23 @@
+html{
+    /* font-size: 62.5%; */
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    /* color: black; */
+    /* font-family: 'Space Grotesk', sans-serif; */
+	/* font-size: 1.8rem; */
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}

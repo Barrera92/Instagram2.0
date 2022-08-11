@@ -1,0 +1,91 @@
+body {
+    width: 470px;
+    margin: 0px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-family: "source sans pro", sans-serif;
+}
+
+.header-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+}
+
+.logo{
+    max-width: 157px;
+    /* margin: 16px 183px 18px 15px; */
+}
+
+.profile-pic{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.linea{
+    width: 100%;
+    border-top: solid 1px #c4c4c4;
+    
+}
+
+/* SECTION 1 */
+
+.photo-head{
+    display: flex;
+    gap: 7px;
+    padding: 10px;
+    align-items: center;
+}
+
+.portrait-vangogh{
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    align-items: left;
+    
+}
+
+.photo-head h5{
+    font-weight: bold;
+}
+
+
+/* FOTO MASTER */
+
+.photo-principal img{
+    width: 470px;
+    height: 500px;
+}
+
+/* footer del post */
+
+.footer-photo{
+    /* border: 2px solid red; */
+    padding-left: 12px;
+}
+.iconos img{
+    width: 25px;
+    height: 25px;
+    align-items: left; 
+    margin-right: 10px;
+}
+
+.footer-photo .like-insta,
+.usuario1 {
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+.footer-text{
+    display: flex;
+    
+}
+.text-usuario1{
+    padding-bottom: 20px;
+}
+
+
+
